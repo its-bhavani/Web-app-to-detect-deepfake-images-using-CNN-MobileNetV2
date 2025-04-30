@@ -46,6 +46,14 @@ It allows users to upload an image and quickly detect whether it is a **real or 
 - 🎨 Canva (UI assets)
 
 ---
+## 📦 Dataset
+
+The dataset used in this project is available on Kaggle:
+
+🔗 [Deepfake Detection Dataset on Kaggle](https://www.kaggle.com/datasets/kshitizbhargava/deepfake-face-images)
+
+To download it via code.
+
 
 ## 📦 Installation & Setup
 
